@@ -1,4 +1,5 @@
 Enhancing Medical Diagnosis Through Multimodal Medical Image Fusion
+
 OVERVIEW 
 
 The proposed system is a Flask-based web application designed for multimodal medical image fusion, focusing on brain tumor detection and classification. It consists of three modules:
