@@ -16,7 +16,8 @@ How to Setup
 2. Install the necessary libraries and dependencies
 3. Run the Image registration module first before executing the main script
 
-System Requirements:
+System Requirements
+
     SOFTWARE REQUIREMENTS
     •	Operating System	    :	Windows, MacOS, or Linux distributions.
     •	Programming Language	:	Python for implementing image processing and deep learning models.
